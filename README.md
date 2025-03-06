@@ -1,3 +1,2 @@
 # Portfolio 
-It not only allows me to demonstrate my web development skills but also acts like an
-online platform for potential employers and clients to learn more about me.
+My portfolio website: a showcase of my work in web development. Explore my projects and skills in HTML, CSS, and JavaScript.
