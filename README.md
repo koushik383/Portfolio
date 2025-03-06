@@ -1,2 +1,2 @@
 # Portfolio 
-My portfolio website: a showcase of my work in web development. Explore my projects and skills in HTML, CSS, and JavaScript.
+This personalized portfolio website was developed by usinh HTML,CSS and Javascript to showcase my professional background,skills and achievements.
